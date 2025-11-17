@@ -6,7 +6,7 @@
 ## AIM:  
 To design and implement a Java program that constructs a Binary Search Tree (BST) using given Book IDs and checks whether a specific Book ID exists in the BST.  
 
-## Algorithm  
+## Algorithm   
 1. Start the program.  
 2. Define a `Node` class with data, left, and right references.  
 3. Create an `insert()` function to insert nodes into the BST following BST rules.  
