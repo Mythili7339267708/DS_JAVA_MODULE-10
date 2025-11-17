@@ -1,7 +1,7 @@
 # Ex24 Shortest Path and Reachability in a Heritage Town using BFS
 
 ## DATE:
-14.11.25
+17.11.25
 
 ## AIM:
 To design and implement a Java program that, given a map of attractions in a heritage town connected by walking paths, recommends:
@@ -17,7 +17,10 @@ To design and implement a Java program that, given a map of attractions in a her
 6. Print results.
 
 ## Program:
-```java
+Developed By: V MYTHILI
+Register Number: 212223040123
+```
+
 import java.util.*;
 
 public class HeritageTownBFS {
